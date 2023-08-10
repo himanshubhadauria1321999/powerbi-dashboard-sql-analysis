@@ -1,3 +1,3 @@
 # powerbi-dashboard-sql-analysis
- atlique hardware company insights
+ atlique hardware company sales insights
 excel-sql-power bi
